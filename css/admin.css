@@ -1,0 +1,30 @@
+a{
+	font-weight: bold;
+}
+#navadmin
+{
+	background-color: #E07A4F;
+}
+#navadmin a{
+	color: #062C5E;
+	font-size: 17px;
+}
+#prods , #cat, #subc , #pro, #main ,#user
+{
+	width:85%;
+	margin: auto;
+	padding: 20px;
+	border: 2px double #062C5E;
+}
+.txt
+{
+	margin: 15px 0px;
+	width:600px;
+	font-weight: bold;
+	color: darkblue;
+}
+th
+{
+	font-size: 18px;
+	background-color: cyan;
+}
